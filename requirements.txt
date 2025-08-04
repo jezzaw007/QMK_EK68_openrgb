@@ -1,0 +1,2 @@
+# Python packages requirements
+qmk          # python qmk package for firmware
