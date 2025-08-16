@@ -9,3 +9,5 @@ How to flash firmware.
 Ensure the mode selector is in wired mode not MAC or Windows wireless mode
 Hold the DEL key and insert the USB power cable to enter flash mode
 
+Disclaimer:
+Flashing custom firmware may void your warranty, damage your device, or cause unexpected behavior. Proceed at your own risk. I take no responsibility for any harm, data loss, or malfunction resulting from the use of this firmware or associated instructions.
