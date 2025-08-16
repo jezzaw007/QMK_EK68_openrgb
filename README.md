@@ -1,14 +1,29 @@
-# QMK_EK68_openrgb
-This repo was to create a new QMK firmware for Epomaker EK68 with OpenRGB support
-However, I forgot that I had previously researched the EK68 knowing that EpoMaker were rebadging as their own and under the hood it was a Zuoya GMK67.
+## 🧠 QMK_EK68_OpenRGB
 
-I then researched for the GMK67 firmware which you will find here, and then came across an archived project for GMK67 firmware here 
-https://github.com/OdznArchives/OpenRGB-GMK67-Builds?tab=readme-ov-file
+This repo was created to develop a custom **QMK firmware** for the **Epomaker EK68** with **OpenRGB** support.
 
-How to flash firmware
-1. Ensure the mode selector is in wired mode not MAC or Windows wireless mode
-2. Hold the DEL key and insert the USB power cable to enter flash mode
-3. flash device, do not power off until completed
+However, I later rediscovered that the EK68 is a rebadged version of the **Zuoya GMK67**, which I had previously researched.  
+So instead of reinventing the wheel, I pivoted to adapting existing GMK67 firmware.
 
-Disclaimer:
-Flashing custom firmware may void your warranty, damage your device, or cause unexpected behavior. Proceed at your own risk. I take no responsibility for any harm, data loss, or malfunction resulting from the use of this firmware or associated instructions.
+You can find the archived GMK67 OpenRGB firmware project here:  
+🔗 [OdznArchives/OpenRGB-GMK67-Builds](https://github.com/OdznArchives/OpenRGB-GMK67-Builds?tab=readme-ov-file)
+
+---
+
+## 🔧 How to Flash Firmware
+
+1. **Set the mode selector to wired mode** (not MAC or Windows wireless mode).
+2. **Hold the `DEL` key** and insert the USB power cable to enter flash mode.
+3. **Flash the device** using your preferred tool.  
+   ⚠️ _Do not disconnect power until the process completes._
+
+---
+
+## ⚠️ Disclaimer
+
+> **Flashing custom firmware is inherently risky.**  
+> It may **void your warranty**, **damage your device**, or cause **unexpected behavior**.  
+> Proceed **at your own risk**.  
+> I take **no responsibility** for any harm, data loss, or malfunction resulting from the use of this firmware or associated instructions.
+
+---
