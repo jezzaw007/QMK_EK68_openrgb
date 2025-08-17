@@ -8,6 +8,14 @@ So instead of reinventing the wheel, I pivoted to adapting existing GMK67 firmwa
 You can find the archived GMK67 OpenRGB firmware project here:  
 🔗 [OdznArchives/OpenRGB-GMK67-Builds](https://github.com/OdznArchives/OpenRGB-GMK67-Builds?tab=readme-ov-file)
 
+OpenRGB-GMK67-Builds
+Old OpenRGB Builds with GMK67 support
+
+System	Arch	Link
+Windows	x64	Download
+Debian	x64	Download
+Fedora	x64	Download
+Appimage	x64	Download
 ---
 
 ## 🔧 How to Flash Firmware
